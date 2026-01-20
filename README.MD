@@ -1,6 +1,6 @@
 Market Research Data Cleaning, Validation & Analysis Project
 
-#Economic & Consumer Sales Data Cleaning, Validation and Trend Analysis using Excel and R
+#  Economic & Consumer Sales Data Cleaning, Validation and Trend Analysis using Excel and R
 
 
 ## 📌 Project Overview
