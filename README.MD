@@ -1,10 +1,11 @@
-Economic & Consumer Sales Data Cleaning, Validation and Trend Analysis using Excel and R
+Market Research Data Cleaning, Validation & Analysis Project
 
-# Market Research Data Cleaning, Validation & Analysis Project
+#Economic & Consumer Sales Data Cleaning, Validation and Trend Analysis using Excel and R
+
 
 ## 📌 Project Overview
 
-This project demonstrates an end-to-end data analysis workflow aligned with the market research data analyst job requirements. The focus is on data cleaning, standardisation, validation, exploratory analysis, and reporting using Excel and R.
+This project demonstrates an end-to-end data analysis workflow aligned with the market research data analyst job requirements. The focus is on data cleaning, standardisation, validation, exploratory analysis, and reporting using **Excel and R**.
 
 The project simulates a real-world market research dataset involving products, brands, categories, prices, and dates, and shows how raw, inconsistent data is transformed into an analysis-ready dataset.
 
