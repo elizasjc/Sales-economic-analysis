@@ -66,7 +66,7 @@ Key cleaned columns:
 ## 📊 Key Visualisations
 
 ### Monthly Price Trend
-![Monthly Price Trend](Monthly Trend.png)
+![Monthly Price Trend](Monthly_Trend.png)
 
 ### Forecast
 ![3-Month Forecast](Forecasting.png)
