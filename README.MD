@@ -69,7 +69,7 @@ Key cleaned columns:
 ![Monthly Price Trend](Monthly_Trend.png)
 
 ### Forecast
-![3-Month Forecast](Forecasting.png)
+![3-Month Forecast](Forecasting3months.png)
 
 The monthly average price shows a clear upward trend over time, indicating consistent price growth across the observed period. The forecast extends this pattern forward, providing a simple baseline projection based on historical trends.
 
