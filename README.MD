@@ -63,6 +63,16 @@ Key cleaned columns:
 
 ---
 
+## 📊 Key Visualisations
+
+### Monthly Price Trend
+![Monthly Price Trend](Monthly Trend.png)
+
+### Forecast
+![3-Month Forecast](Forecasting.png)
+
+---
+
 ## 📈 Key Insights (Example)
 
 * Brand-level average pricing differences
